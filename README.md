@@ -31,7 +31,6 @@ A.set_joint_angles(q_rad)  # list/np.ndarray of 12 radians in FR,FL,RR,RL × hip
 ---
 
 **LICENSE**
-```text
 MIT License
 
 Copyright (c) 2025 Oskar P ;3
