@@ -1,5 +1,5 @@
 # pupper_can_adapter
-This reposetory is a project aimed to translate the servo rotation from the stanford pupper robot dog to can motors
+This reposetory is a project aimed to translate the servo rotation from the stanford pupper robot dog to can motors. THIS WAS MADE WITH AI. Im too stupid to make this shit in 2 days (This requierment is crazy bruh). The logic of translation the signals is mine. But the code is not. 
 # pupper-can-adapter
 
 Actuation Abstraction Layer (AAL) that lets you run the **Stanford Pupper** gait/walking stack on **CAN-based** smart actuators.
@@ -28,7 +28,6 @@ A.set_joint_angles(q_rad)  # list/np.ndarray of 12 radians in FR,FL,RR,RL × hip
 > ⚠️ **Safety**: The included `protocols/rmd.py` is a **skeleton**. Complete and test with wheels off the ground. Start with `--protocol sim`.
 ```
 
----
 
 **LICENSE**
 MIT License
